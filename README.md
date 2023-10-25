@@ -1,7 +1,3 @@
-Certainly, here's a description for your project using OpenCV in Python:
-
----
-
 **Project Title**: Real-time Face Detection with OpenCV
 
 **Description**:
@@ -28,5 +24,5 @@ Real-time face detection has a wide range of applications, from security and sur
 
 ---
 
-Feel free to modify this description according to your project's unique features and purpose.# facedection.py
+# facedection.py
 My first Machine learning mini project  for face detection.
